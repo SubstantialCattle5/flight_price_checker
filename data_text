@@ -1,0 +1,37 @@
+ 
+                Id : 049115384a660000b39770dd_0
+                From : Mumbai
+                To : Kolkata
+                Price : 2850
+                Seats Available : 4
+                Airline : ['UK']
+                Flight Departure Date : 2022-02-23
+                
+                 
+                Id : 049107114a7600007576e925_0
+                From : Mumbai
+                To : New Delhi
+                Price : 2410
+                Seats Available : 4
+                Airline : ['UK']
+                Flight Departure Date : 2022-03-11
+                
+                 
+                Id : 049118c74a7900000ab472a5_0
+                From : Mumbai
+                To : Bengaluru
+                Price : 2115
+                Seats Available : 4
+                Airline : ['UK']
+                Flight Departure Date : 2022-03-14
+                
+                 
+                Id : 0491207c4a740000bb37caa2_0
+                From : Mumbai
+                To : Goa
+                Price : 1982
+                Seats Available : 4
+                Airline : ['UK']
+                Flight Departure Date : 2022-03-09
+                
+                

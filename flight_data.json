@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "city": "Kolkata",
+            "country": "India",
+            "code": "CCU",
+            "lowestPrice": 3000,
+            "id": 2
+        },
+        {
+            "city": "Delhi",
+            "country": "India",
+            "code": "DEL",
+            "lowestPrice": 3000,
+            "id": 3
+        },
+        {
+            "city": "Bangalore",
+            "country": "India",
+            "code": "BLR",
+            "lowestPrice": 3000,
+            "id": 4
+        },
+        {
+            "city": "Goa",
+            "country": "India",
+            "code": "GOI",
+            "lowestPrice": 3000,
+            "id": 5
+        }
+    ]
+}
